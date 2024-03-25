@@ -1,7 +1,7 @@
-.PHONY: install run
+.PHONY:install run
 
 install:
-    pip install -r requirements.txt
+    pip install -r "requirements.txt"
 
 run:
     flask run

@@ -20,9 +20,3 @@ jobs:
 
     - name: Install dependencies
       run: pip install -r requirements.txt
-
-    - name: Build Docker image
-      run: |
-        echo 'start docker build'
-        docker build -t flask-app .
-        echo 'finish docker build'

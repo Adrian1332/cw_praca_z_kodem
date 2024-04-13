@@ -8,3 +8,5 @@ Aby zainstalować potrzebne rozszerzenia z pliku, wykonaj polecenia:
 
 3. Przejdź do folderu, w którym znajduje się projekt komendą:
     - cd "NDABO"
+
+    To są zmiany dodane tylko dla testów
